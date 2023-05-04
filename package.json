@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Daniel Jacobo <axel.910921@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
